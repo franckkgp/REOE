@@ -1,0 +1,13 @@
+{
+    "name": "franckkgp/dsm31",
+    "authors": [
+        {
+            "name": "2021",
+            "email": "al222011269@gmail.com"
+        }
+    ],
+    "require": {
+        "vlucas/phpdotenv": "^5.3",
+        "rakit/validation": "^1.4"
+    }
+}
